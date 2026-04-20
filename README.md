@@ -1,16 +1,37 @@
-# petcare
+# 🐾 PetCare App
 
-A new Flutter project.
+A Flutter application for managing your pets' health, schedule, and care.
+
+## Features
+
+- 🔐 Authentication (Login & Signup)
+- 🐾 Pet Management
+- 🏥 Health Tracking
+- 💊 Medication Reminder
+- 📅 Appointment Schedule
+- 🍽️ Feeding Tracker
+- 💉 Vaccination Records
+- 👤 User Profile
+
+## Tech Stack
+
+- **Frontend:** Flutter (Dart)
+- **Backend:** Firebase
+- **Database:** Cloud Firestore
+- **Authentication:** Firebase Auth
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+1. Clone the repository
+   git clone https://github.com/sh-nipun/Petcare.git
 
-A few resources to get you started if this is your first Flutter project:
+2. Install dependencies
+   flutter pub get
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+3. Run the app
+   flutter run
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Developer
+
+- **Name:** SH Nipun
+- **University:** Daffodil International University
